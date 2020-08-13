@@ -1,5 +1,4 @@
 //META{"name":"p_1lib_discord_internals"}*//
-console.log("ksabdjsandjsandkasndkjasndkjsankdjnaskjdnaskjndskjandkjsandjksnajkdnsajkdnsakjndkjsandkjsandjksnakjdnsakjdnaskjndkjsandkjsandkjsandjksankjdnas")
 /*@cc_on
 @if (@_jscript)
 	
